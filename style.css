@@ -1,0 +1,36 @@
+p{
+	height: 50px;
+	width: 98%;
+    color:brown;
+    font-weight: bold;
+    font-size: 1.2rem;
+    letter-spacing: 0.5rem;
+    word-spacing: 1rem;
+	text-align: center;
+	 background-image: linear-gradient(45deg, #a4f2f2, #efa7d7);
+}
+
+
+#container
+{
+    width:80%;
+    height:600px;
+    background-color:lightgreen;
+    margin-left:10%;
+    align-items: center;
+    position:absolute;
+}
+
+
+#box
+{
+    background-color:blueviolet;
+    border:1px solid darkgreen;
+    height:70px;
+    width:70px;
+    
+    position: absolute;
+    margin:40px 40px 40px 40px;
+   align-items:center;
+   text-align:center;
+}
